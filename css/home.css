@@ -1,0 +1,39 @@
+﻿.card-body {
+    min-height: 250px;
+    min-width: 300px;
+    margin-right: 5px;
+    border: none;
+}
+
+.card-body img {
+    width:auto;
+    max-height: 200px;
+}
+
+.CardProductoHome {
+    max-width:100%;
+}
+
+.productos-container {
+    width: 100vw;
+}
+
+.productos-container div{
+    width:100%;
+}
+
+.productos-container img {
+    width: 100%;
+    height: auto;
+}
+
+.productos-container .card-body{
+    min-width: 0px;
+}
+
+.imagen-logo {
+    max-width: 80%;
+    height: auto;
+    max-height: 200px;
+    margin: 0 auto;
+}

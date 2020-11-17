@@ -1,0 +1,70 @@
+﻿.nombre-producto {
+    text-align: center;
+}
+
+.images-container {
+    width: 90%;
+    text-align: center;
+    margin: 60px auto 60px;
+}
+
+git.container-enlarge {
+    display: inline-block;
+    position: relative;
+    z-index: 0;
+    margin: 15px;
+}
+
+    .container-enlarge > img {
+        height: auto;
+        max-width: 100%;
+        width: 150px;
+        border-radius: 5px;
+    }
+
+.boton-empezar {
+    padding: 10px;
+    background-color: #B02242;
+    max-width: 100%;
+}
+
+    .boton-empezar a {
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 20px;
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+    .boton-empezar:hover {
+        color: #ffffff;
+        background-color: #5A6978;
+        width: 100%;
+    }
+
+.precio {
+    color: #5A6978;
+}
+
+.cuotas {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 15px;
+    color: #ffffff;
+    background-color: #B02242;
+}
+
+.descripcion {
+    font-weight: 500;
+    font-size: 20px;
+    text-align:left;
+}
+
+.images-container img {
+    max-width: 100%;
+}
+
+@media (max-width: 600px) {
+
+}
